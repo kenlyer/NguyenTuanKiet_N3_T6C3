@@ -17,6 +17,14 @@
 
 - ⚡ Fun fact **I love learning**
 
+<h3 align="left">Working on</h3>
+
+- 🔭 I’m currently working on [project bán vé máy bay](https://github.com/kenlyer/Scrum_nhom4)
+
+- 🔭 I’m currently working on [project cho thuê phòng khách sạn](https://github.com/HuyLieu1603/DAQLKS-CNPMNC)
+
+<h3 align="left">My Github stats</h3>
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenlyer&show_icons=true&theme=transparent)
 
 <h3 align="left">Connect with me:</h3>
@@ -36,8 +44,6 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
 <a href="" target="_blank" rel=""> <img src="https://camo.githubusercontent.com/f4c52b575a890c7e67c6541271fc5733506088d19c77ffde6bab3e18e7948536/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e4e45542d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d2e6e6574266c6f676f436f6c6f723d7768697465" alt="nodejs" width="75" height="40"/> </a>
-<h1 align="left">My Language chart</h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
