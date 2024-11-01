@@ -52,5 +52,5 @@
 <h3 align="left"></h1>
 <h1 align="left">💾 Work History</h1>
 
-- Formerly a collaborator in the testing team of the block chain company (oneblock labs) &nbsp;  <a href="" target="_blank" rel="noreferrer"> <img src="https://static.topcv.vn/company_logos/cong-ty-co-phan-oneblock-labs-61d7c8c0dd466.jpg" alt="" width="25" height="25"/> </a>
+- Formerly a collaborator in the testing team of the block chain company (oneblock labs) &nbsp;  <a href="https://blockbase.co/" target="_blank" rel="noreferrer"> <img src="https://static.topcv.vn/company_logos/cong-ty-co-phan-oneblock-labs-61d7c8c0dd466.jpg" alt="" width="25" height="25"/> </a>
 
